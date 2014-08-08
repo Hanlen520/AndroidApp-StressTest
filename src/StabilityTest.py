@@ -1,6 +1,6 @@
 # coding=utf-8
 
-"""  Android app  stress test tool based on Monkey
+"""  Android app stress test tool based on Monkey
 
      Copyright 2014 Inspur Tester JiTeng.
 """
